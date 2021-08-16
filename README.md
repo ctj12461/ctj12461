@@ -1,6 +1,13 @@
 ### Hi there 👋
-[![Justin Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctj12461&count_private=true&show_icon=true&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctj12461)](https://github.com/anuraghazra/github-readme-stats)  
+#### Language & Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
+
+#### Coding Statistics
+![Justin Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctj12461&count_private=true&show_icon=true&include_all_commits)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctj12461&layout=compact)
 
 <!--
 **ctj12461/ctj12461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
