@@ -1,6 +1,6 @@
 <h3 align="center">👋 Justin Chen's Profile</h3>
 <p align="center">
-  <a href="https://ctj-notes.vercel.app">Blog</a> |
+  <a href="https://ctj12461.vercel.app">Blog</a> |
   <a href="mailto:ctj12461@163.com">Mail</a>
 </p>
 <hr/>
