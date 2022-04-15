@@ -19,7 +19,7 @@
 
 #### About Me
  - An OIer
- - A C++ developer
+ - A C++ & Python developer
  - A Linux lover
  - A Minecraft lover (especially restone & architecture)
 
